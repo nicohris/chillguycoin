@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: linear-gradient(90deg, #ff8c00, #ff2e63);
+    padding: 40px;
+    border-bottom: 5px solid #ff2e63;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+.buy-button {
+    display: inline-block;
+    background: #ff2e63;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.about, .links {
+    margin: 40px 0;
+    padding: 20px;
+}
+
+.links a {
+    display: block;
+    font-size: 1.2em;
+    color: #ff2e63;
+    text-decoration: none;
+    margin: 10px;
+}
+
+footer {
+    background: #222;
+    padding: 20px;
+    margin-top: 20px;
+}
